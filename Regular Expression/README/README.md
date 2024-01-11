@@ -1,42 +1,22 @@
 ## ALGORITHM:
 
-## 1.
-  Start the program
-## 2.
-  Import the re module for working with regular expression
+## 1. Start the program
+## 2. Import the re module for working with regular expression
+## 3. Define the function detect word pattern that takes two parameters pattern (the regular expression pattern) and test (the target teat to search for the pattern) 
+## 4.a  Inside the detect_word pattern function: Use re.findall() to find all occurrences of the pattern within the text Showr the matches in the matches variable.
+## b. If matches are found (ie, the matches list is not empty) Print "Word patterns detected:" Iterate over the matches list and print each detected word pattern
+## c. If no matches are found (ie, the matches list is empty), print "Ne word patterns detected."
+## 5. Define a list called sample inputs that contains multiple tuples. Each tople represents a sample input and consists of a pattern and a corresponding tend to test.
 
-## 3.
-  Define the function detect word pattern that takes two parameters pattern (the regular expression pattern) and test (the target teat to search for the pattern) 
-## 4.a
-Inside the detect_word pattern function:
+## 6.i. Use a for loop to iterate through each tuple in the sample_inputs list 1. Extract the pattern and text from the current tuple.
 
-Use re.findall() to find all occurrences of the pattern within the text Showr the matches in the matches variable.
+## ii. Print the pattern and test for reference.
 
-## b. 
-  If matches are found (ie, the matches list is not empty) Print "Word patterns detected:"
+## iii. Call the detect word pattern function with the pattern and tot as argumenta.
+ 
+## iv. Print a line of dashes to separate the output for each sample
 
-  Iterate over the matches list and print each detected word pattern
-
-## c.
-  If no matches are found (ie, the matches list is empty), print "Ne word patterns detected."
-
-## 5.
-  Define a list called sample inputs that contains multiple tuples. Each tople represents a sample input and consists of a pattern and a corresponding tend to test.
-
-## 6.i
-  Use a for loop to iterate through each tuple in the sample_inputs list 1. Extract the pattern and text from the current tuple.
-
-  ## ii.
-  Print the pattern and test for reference.
-
-## iii.
-  Call the detect word pattern function with the pattern and tot as argumenta.
-
-## iv.
-  Print a line of dashes to separate the output for each sample
-
-## 7.
-  End the program.
+## 7. End the program.
 
 
 ## Function detect_word_pattern(pattern, text):
