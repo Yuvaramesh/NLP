@@ -1,5 +1,4 @@
 import re
-
 def detect_word_pattern(pattern, text):
     matches = re.findall(pattern, text)
     if matches:
