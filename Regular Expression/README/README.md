@@ -6,11 +6,11 @@
 ### 4.a  Inside the detect_word pattern function: Use re.findall() to find all occurrences of the pattern within the text Showr the matches in the matches variable.
 ### b. If matches are found (ie, the matches list is not empty) Print "Word patterns detected:" Iterate over the matches list and print each detected word pattern
 ### c. If no matches are found (ie, the matches list is empty), print "Ne word patterns detected."
-## 5. Define a list called sample inputs that contains multiple tuples. Each tople represents a sample input and consists of a pattern and a corresponding tend to test.
+### 5. Define a list called sample inputs that contains multiple tuples. Each tople represents a sample input and consists of a pattern and a corresponding tend to test.
 
-## 6.i. Use a for loop to iterate through each tuple in the sample_inputs list 1. Extract the pattern and text from the current tuple.
+### 6.i. Use a for loop to iterate through each tuple in the sample_inputs list 1. Extract the pattern and text from the current tuple.
 
-## ii. Print the pattern and test for reference.
+### ii. Print the pattern and test for reference.
 
 ## iii. Call the detect word pattern function with the pattern and tot as argumenta.
  
