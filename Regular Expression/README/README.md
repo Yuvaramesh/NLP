@@ -4,7 +4,7 @@
 ### 2. Import the re module for working with regular expression
 ### 3. Define the function detect word pattern that takes two parameters pattern (the regular expression pattern) and test (the target teat to search for the pattern)** 
 ### 4.a  Inside the detect_word pattern function: Use re.findall() to find all occurrences of the pattern within the text Showr the matches in the matches variable.
-## b. If matches are found (ie, the matches list is not empty) Print "Word patterns detected:" Iterate over the matches list and print each detected word pattern
+### b. If matches are found (ie, the matches list is not empty) Print "Word patterns detected:" Iterate over the matches list and print each detected word pattern
 ## c. If no matches are found (ie, the matches list is empty), print "Ne word patterns detected."
 ## 5. Define a list called sample inputs that contains multiple tuples. Each tople represents a sample input and consists of a pattern and a corresponding tend to test.
 
