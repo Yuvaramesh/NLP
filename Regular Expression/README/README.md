@@ -12,11 +12,11 @@
 
 ### ii. Print the pattern and test for reference.
 
-## iii. Call the detect word pattern function with the pattern and tot as argumenta.
+### iii. Call the detect word pattern function with the pattern and tot as argumenta.
  
-## iv. Print a line of dashes to separate the output for each sample
+### iv. Print a line of dashes to separate the output for each sample
 
-## 7. End the program.
+### 7. End the program.
 
 
 ## Function detect_word_pattern(pattern, text):
