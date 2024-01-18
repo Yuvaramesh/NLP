@@ -52,3 +52,9 @@
 - text = "This is an example sentence."
 - tokens = tokenizer.tokenize(text)
 - print(tokens)
+
+from nltk.tokenize import RegexpTokenizer
+tokenizer = RegexpTokenizer("[\w']")
+text = "Let's see how it's working."
+tokenizer.tokenize(text)
+
