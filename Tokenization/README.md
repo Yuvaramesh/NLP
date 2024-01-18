@@ -46,13 +46,9 @@
 - This essential preprocessing step transforms unprocessed text into a format appropriate for additional statistical and computational analysis.
 
 ### Example:
-from tokenizer import Tokenizer
 
-# Initialize tokenizer
-tokenizer = Tokenizer()
-
-# Tokenize input text
-text = "This is an example sentence."
-tokens = tokenizer.tokenize(text)
-
-print(tokens)
+- from tokenizer import Tokenizer
+- tokenizer = Tokenizer()
+- text = "This is an example sentence."
+- tokens = tokenizer.tokenize(text)
+- print(tokens)
