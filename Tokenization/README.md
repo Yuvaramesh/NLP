@@ -1,6 +1,6 @@
 ### Tokenization
 ### Overview
-- This project focuses on implementing tokenization using Natural Language Processing (NLP) techniques. Tokenization is the process of breaking down a text into individual units, typically words or phrases, called tokens. In NLP, tokenization is a fundamental step in various language processing tasks, such as text analysis, sentiment analysis, and machine translation.**
+- This project focuses on implementing tokenization using Natural Language Processing (NLP) techniques. Tokenization is the process of breaking down a text into individual units, typically words or phrases, called tokens. In NLP, tokenization is a fundamental step in various language processing tasks, such as text analysis, sentiment analysis, and machine translation.
 
 ### Key Features
 #### Advanced Tokenization Algorithm:
