@@ -47,3 +47,8 @@
 
 ### Example:
 
+import nltk
+tokenizer = Tokenizer()
+text = "This is an example sentence."
+tokens = tokenizer.tokenize(text)
+print(tokens)
