@@ -18,4 +18,22 @@
 - Prerequisites
 - Python 3.x
 - NLTK (Natural Language Toolkit) or Spacy library
+
 ![image](https://github.com/Yuvaramesh/NLP-Programs/assets/122080340/5dd0a775-137d-4204-b842-5a05b5cc1766)
+
+#### Effective Text Processing: 
+- Tokenization reduces the size of raw text so that it can be handled more easily for processing and analysis.
+#### Feature extraction:
+- Text data can be represented numerically for algorithmic comprehension by using tokens as features in machine learning models.
+#### Language Modelling: 
+- Tokenization in NLP facilitates the creation of organised representations of language, which is useful for tasks like text generation and language modelling.
+#### Information Retrieval: 
+- Tokenization is essential for indexing and searching in systems that store and retrieve information efficiently based on words or phrases.
+#### Text Analysis:
+- Tokenization is used in many NLP tasks, including sentiment analysis and named entity recognition, to determine the function and context of individual words in a sentence.
+#### Vocabulary Management: 
+- By generating a list of distinct tokens that stand in for words in the dataset, tokenization helps manage a corpus’s vocabulary.
+#### Task-Specific Adaptation:
+- Tokenization can be customised to meet the needs of particular NLP tasks, meaning that it will work best in applications such as summarization and machine translation.
+#### Preprocessing Step: 
+- This essential preprocessing step transforms unprocessed text into a format appropriate for additional statistical and computational analysis.
