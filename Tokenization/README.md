@@ -1,5 +1,7 @@
 # Tokenization
 
+**Natural Language Processing (NLP) is a subfield of computer science, artificial intelligence, information engineering, and human-computer interaction. This field focuses on how to program computers to process and analyze large amounts of natural language data.**
+
 ### Overview
 - This project focuses on implementing tokenization using Natural Language Processing (NLP) techniques. Tokenization is the process of breaking down a text into individual units, typically words or phrases, called tokens. In NLP, tokenization is a fundamental step in various language processing tasks, such as text analysis, sentiment analysis, and machine translation.
 
