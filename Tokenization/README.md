@@ -1,4 +1,5 @@
-## Tokenization
+# Tokenization
+
 ### Overview
 - This project focuses on implementing tokenization using Natural Language Processing (NLP) techniques. Tokenization is the process of breaking down a text into individual units, typically words or phrases, called tokens. In NLP, tokenization is a fundamental step in various language processing tasks, such as text analysis, sentiment analysis, and machine translation.
 
@@ -20,6 +21,10 @@
 - NLTK (Natural Language Toolkit) or Spacy library
 
 ![image](https://github.com/Yuvaramesh/NLP-Programs/assets/122080340/5dd0a775-137d-4204-b842-5a05b5cc1766)
+
+
+
+### Need of Tokenization
 
 #### Effective Text Processing: 
 - Tokenization reduces the size of raw text so that it can be handled more easily for processing and analysis.
