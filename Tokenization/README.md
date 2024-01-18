@@ -18,3 +18,4 @@
 - Prerequisites
 - Python 3.x
 - NLTK (Natural Language Toolkit) or Spacy library
+![image](https://github.com/Yuvaramesh/NLP-Programs/assets/122080340/5dd0a775-137d-4204-b842-5a05b5cc1766)
