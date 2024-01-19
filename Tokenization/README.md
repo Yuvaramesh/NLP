@@ -47,14 +47,6 @@
 
 ### Example:
 
-- from tokenizer import Tokenizer
-- tokenizer = Tokenizer()
-- text = "This is an example sentence."
-- tokens = tokenizer.tokenize(text)
-- print(tokens)
-
-
-
 - import nltk
 - def tokenize_text(text): #tokenize_text(text) is the user-defined func
 - tokens=nltk.word_tokenize(text) #word_tokenize(text) is built-in func
