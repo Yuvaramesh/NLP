@@ -53,4 +53,7 @@
 - tokens = tokenizer.tokenize(text)
 - print(tokens)
 
+![image](https://github.com/Yuvaramesh/NLP-Programs/assets/122080340/286bc108-84d3-47d1-a0c7-3f62ab441989)
+
+
 
