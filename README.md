@@ -47,7 +47,7 @@
 - Question Answering
 - Summarizing Information
 
-***Future Scope:***
+****Future Scope:****
 - Chatbot Advancements
 - Supporting Invisible UI
 - Smarter Search with NLP
