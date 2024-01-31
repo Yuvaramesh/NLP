@@ -1,6 +1,6 @@
 # REGULAR EXPRESSION
 
-### ALGORITHM:
+### ***ALGORITHM:***
 
 #### 1. Start the program
 #### 2. Import the re module for working with regular expression
