@@ -18,7 +18,7 @@
  
 #### iv. Print a line of dashes to separate the output for each sample
 
-### 7. End the program.
+#### 7. End the program.
 
 
 ## Function detect_word_pattern(pattern, text):
