@@ -1,6 +1,6 @@
 # NLP Overview
 
-***Introduction:***
+**Introduction:**
 - Natural Language Processing (NLP) in AI
 - Integration in Business Applications
 
